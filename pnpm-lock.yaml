@@ -1,10 +1,10 @@
 dependencies:
-  cpsfy: 2.1.18
+  cpsfy: 2.1.24
 lockfileVersion: 5
 packages:
-  /cpsfy/2.1.18:
+  /cpsfy/2.1.24:
     dev: false
     resolution:
-      integrity: sha512-ELRvyaw/QWEDaNLYM9tz40zRPPIorYa0s/IZO8Y+twn5jE1q19moslFjM6EYyYDGlL9F89XQiDX8ol2VtElV1g==
+      integrity: sha512-kyr2zSMgL2DfTxJpkvYn014hBz5lw4OlQ7J6iB1WavTwm81BW1PrhvMmmw5e1dkoHoGLfgxw8HlfPCKZaiGJOg==
 specifiers:
-  cpsfy: 2.1.18
+  cpsfy: 2.1.24
