@@ -1,10 +1,13 @@
-dependencies:
-  cpsfy: 2.1.18
-lockfileVersion: 5
-packages:
-  /cpsfy/2.1.18:
-    dev: false
-    resolution:
-      integrity: sha512-ELRvyaw/QWEDaNLYM9tz40zRPPIorYa0s/IZO8Y+twn5jE1q19moslFjM6EYyYDGlL9F89XQiDX8ol2VtElV1g==
+lockfileVersion: 5.3
+
 specifiers:
-  cpsfy: 2.1.18
+  cpsfy: 3.6.0
+
+dependencies:
+  cpsfy: 3.6.0
+
+packages:
+
+  /cpsfy/3.6.0:
+    resolution: {integrity: sha512-QKBfeeJyzuQ04PtLJybwn/lwXS/3Gl9Reo0LivL0MC3gNd7vm8uzs5ix67zBnt1Bs6lUqWK7/e2wbFjVj2hnJQ==}
+    dev: false
